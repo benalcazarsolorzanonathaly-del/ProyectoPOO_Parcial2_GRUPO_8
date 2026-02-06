@@ -1,12 +1,15 @@
 # 🏋️ Sistema de Gestión de Gimnasio - Grupo 8
-#INTEGRANTES
-#Benalcazar solorzano Nathaly Alexandra
-#Mero mero Valentina Maricela
-#Salinas José Joel Isaías
-#Vargas Sudario Andrea Alejandra
 
-## 📌 Descripción del Proyecto
-Sistema CRUD completo para la gestión de membresías de un gimnasio, desarrollado para el **2do Parcial de Programación Orientada a Objetos**. Implementa:
+# INTEGRANTES
+
+# Benalcazar solorzano Nathaly Alexandra
+# Mero mero Valentina Maricela
+# Salinas José Joel Isaías
+# Vargas Sudario Andrea Alejandra
+
+📋 📌 DESCRIPCIÓN DEL PROYECTO
+
+Este proyecto implementa un Sistema de Gestión de Servicios para un Gimnasio utilizando Programación Orientada a Objetos en Python. Permite administrar diferentes tipos de membresías, clientes y operaciones del gimnasio Y usa un sistema CRUD completo para la gestión de membresías de un gimnasio. Implementa:
 
 - **✅ Programación Orientada a Objetos** (5 clases requeridas del 1er parcial)
 - **✅ Interfaz Gráfica con Qt/PySide6** diseñada con Qt Designer
