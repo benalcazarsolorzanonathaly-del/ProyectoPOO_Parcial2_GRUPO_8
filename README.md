@@ -1,11 +1,11 @@
 # 🏋️ Sistema de Gestión de Gimnasio - Grupo 8
 
-# INTEGRANTES
+#INTEGRANTES
 
-# Benalcazar solorzano Nathaly Alexandra
-# Mero mero Valentina Maricela
-# Salinas José Joel Isaías
-# Vargas Sudario Andrea Alejandra
+#Benalcazar solorzano Nathaly Alexandra
+#Mero mero Valentina Maricela
+#Salinas José Joel Isaías
+#Vargas Sudario Andrea Alejandra
 
 📋 📌 DESCRIPCIÓN DEL PROYECTO
 
