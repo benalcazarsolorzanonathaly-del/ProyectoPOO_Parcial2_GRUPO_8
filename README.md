@@ -57,3 +57,5 @@ Este proyecto implementa un Sistema de Gestión de Servicios para un Gimnasio ut
 * <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/a6693e05-5d06-4c5c-9bca-75c69b6a5bcc" />
 * <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/12b3c0d8-3084-49b2-a99b-b4de4fa7fc8e" />
 
+LINK DEL VIDEO
+https://youtu.be/nJwmjBx8xpw?si=eJ2ADtCR9BnY7U9X
